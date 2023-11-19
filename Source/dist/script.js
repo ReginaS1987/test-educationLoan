@@ -46,6 +46,7 @@ class Slider {
       });
     });
     this.showSlides(this.slideIndex);
+    console.log(this.slides);
   }
 }
 
